@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Ahmed Essam </h1> </p>
+<p align="center"> <h3 align="center"> CSE Fresh Graduate </h3> </p>
+<p align="center" margin="20px">
+<a href="https://github.com/ahmedessam139" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Ahmed Essam" height="20" width="20" /></a>
+<a href="https://twitter.com/ahmedessam139" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ahmed Essam" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/ahmed-essam-390b29229/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Ahmed Essam" height="20" width="20" /></a>
+</p>
+<br>
 
-<!--
-**ahmedessam139/ahmedessam139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Essam Khalil,CSE fresh graduate from Zagazig University. I specialize in web development, with a focus on frontend design and user experience. I also have a strong knowledge of backend development. Additionally, I have passion in RPA (Robotic Process Automation) and low-code development world.
+<br>
+<br>
+📌 I’m currently working on Making No-code Environment for RPA(Studio like Uipath Studio)
 
-Here are some ideas to get you started:
+📌 I made Event Mangment System for my faculty using 
+and working on developing it .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Always looking for an opportunity to develop my skills and thinking
+
+📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-essam-390b29229/)
+- [Twitter](https://twitter.com/ahmedessam139)
+
