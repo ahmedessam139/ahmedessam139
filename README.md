@@ -10,15 +10,18 @@
 I'm Ahmed Essam Khalil,CSE fresh graduate from Zagazig University. I specialize in web development, with a focus on frontend design and user experience. I also have a strong knowledge of backend development. Additionally, I have passion in RPA (Robotic Process Automation) and low-code development world.
 <br>
 <br>
-📌 I’m currently working on Making No-code Environment for RPA(Studio like Uipath Studio)
+Highly adaptable team player/leader with strong strategic planning abilities, quick learning aptitude, and a proven track record of effectively applying knowledge.
+<br>
+<br>
+📌 I’m currently working on devloping RPA tool and its orchestrator (Studio & orc like Uipath )
 
-📌 I made Event Mangment System for my faculty using 
-and working on developing it .
+📌 I created an Event Management System for student activities within my faculty and am currently engaged in its ongoing development.
 
 📌 Always looking for an opportunity to develop my skills and thinking
 
-📫 How to reach me:
+📫 reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-essam-390b29229/)
 - [Twitter](https://twitter.com/ahmedessam139)
+- [mail](ahmedessam139ae@gmail.com)
 
